@@ -1,4 +1,4 @@
-# Defender ATP 
+# Defender for Endpoint
 
 ## Alerts
 
